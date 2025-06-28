@@ -2,6 +2,6 @@
   outputs =
     { ... }:
     {
-      versionTemplate = "1.2.1.<nightly>-<branch>-<date>@<rev>";
+      versionTemplate = "1.2.0.<nightly>-<branch>-<date>@<rev>";
     };
 }
